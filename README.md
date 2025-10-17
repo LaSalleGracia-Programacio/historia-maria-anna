@@ -62,7 +62,11 @@ Quan cloneu el vostre repositori trobareu:
 ---
 
 ## Reflexió final
-- Què ha passat quan heu intentat pujar sense fer `pull`?  
-- Què heu après sobre els conflictes?  
-- Què us ha ajudat a mantenir la història coherent?  
-- Per què és útil treballar amb branques en projectes de programació reals?  
+- Què ha passat quan heu intentat pujar sense fer `pull`?
+  En ha donat error degut a les divergencies de rames.
+- Què heu après sobre els conflictes?
+  Hem apres que hi ha dierenrentes maneres de fer merge. Per exemple: merge --no-ff, que a sigut la que ens ha ajudat a solucionar el problema.
+- Què us ha ajudat a mantenir la història coherent?
+  Ens a ajudat parlar en equip. 
+- Per què és útil treballar amb branques en projectes de programació reals?
+  És útil per poder tenir diferents versions del mateix programa sense tenir-los en diferents carpetes a l'ordinador.
